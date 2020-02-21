@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Maanav
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 182891723
+    locked: 0
+  - name: Middleground
+    uniqueID: 200188495
+    locked: 0
+  - name: World Objects
+    uniqueID: 107657817
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Town Objects
+    uniqueID: 740013573
+    locked: 0
+  - name: Player
+    uniqueID: 2476690403
+    locked: 0
